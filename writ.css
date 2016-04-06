@@ -74,14 +74,12 @@ th, td { border: solid #dbdbdb; }
 
 /* Layout */
 
-body { margin: 1.5rem 1ch; }
-
 body > header { text-align: center; }
 
 body  {
   display: block; /* Just in case */
   max-width: 98ch;
-  margin: auto;
+  margin:  1.5rem auto;
 }
 
 main figure, main aside {
