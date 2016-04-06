@@ -184,6 +184,7 @@ code, samp {
 
 @page
 {
+    size: auto; 
     margin: 20mm;
 }
 
