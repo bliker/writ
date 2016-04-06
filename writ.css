@@ -78,7 +78,7 @@ body > header { text-align: center; }
 
 body  {
   display: block; /* Just in case */
-  max-width: 98ch;
+  max-width: 85ch;
   margin:  1.5rem auto;
 }
 
